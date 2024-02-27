@@ -4,7 +4,7 @@ Relaciones estudiantiles UTFSM
 
 # Descripción
 
-Aplicación web creada como sugerencia de mejoramiento de la interfaz usuaria del sitio web de Relaciones estudiantiles de la Universidad Técnica Federico Santa María, a fin de obtener de manera más rápida y sencilla la información relacionada a noticias, beneficios estudiantiles y atención médica, utilizando Vite (ReactJS template) y TailwindCSS
+Aplicación web creada como proyecto de mejora de la interfaz usuaria del sitio web de Relaciones estudiantiles de la Universidad Técnica Federico Santa María, a fin de obtener de manera más rápida y sencilla la información relacionada a noticias, beneficios estudiantiles y atención médica, utilizando Vite (ReactJS template) y TailwindCSS
 
 # Creadores
 
